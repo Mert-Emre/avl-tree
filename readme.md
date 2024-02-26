@@ -1,5 +1,5 @@
 To run the program first compile all files. Than call the command:
-Java Main <input_file> <output_file>
+java Main <input_file> <output_file>
 input files are given, you should use them as input files, output file is arbitrary.
 
 This project mainly implements and uses an avl tree. There is a mafia organization. It has one boss and every member of the organization has some kind of reputation score which is called gms. Every member has at most 2 lower ranking member to give orders. If there are two lower-ranking members under the command of a higher-ranking member,
